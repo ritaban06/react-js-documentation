@@ -1,5 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/react-js-documentation)  
-
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 # React JS Documentation
 
