@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/react-js-documentation)  
+
+
 # React JS Documentation
 
 For the official React  documentation, please refer to the [React documentation website](https://react.dev/)
